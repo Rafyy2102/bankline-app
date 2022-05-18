@@ -59,6 +59,8 @@
   
    <img src="https://icongr.am/simple/androidstudio.svg?size=128&color=1a4175&colored=false" alt="Android Studio" width="40" height="40"/> 
   
-   <img src="https://icongr.am/simple/android.svg?size=128&color=276e0d&colored=false" alt="Android" width="40" height="40"/>     
+   <img src="https://icongr.am/simple/android.svg?size=128&color=276e0d&colored=false" alt="Android" width="40" height="40"/>    
+  
+   <img src="https://icongr.am/simple/kotlin.svg?size=95&color=492dd7&colored=false" alt="Android" width="40" height="40"/>   
   
  </p>
